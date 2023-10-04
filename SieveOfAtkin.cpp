@@ -40,7 +40,7 @@ void Sieve(Int n)
     while (r * r < n)
     {
         if (sieveList[r])
-            for (int j = r * r; j < n; j += r)
+            for (int j = r * r; j < n; j += r * r)
             {
                 sieveList[j] = 0;
             }
