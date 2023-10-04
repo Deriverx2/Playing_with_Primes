@@ -9,4 +9,6 @@ Sieve of atkin
 
 ## TODO
 
+Check out: Baillie PSW primality test
+
 Primes is in P
