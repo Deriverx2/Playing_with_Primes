@@ -5,7 +5,7 @@ A repo containing programs involvinf primes
 
 Sieve of Eratosthenes
 
-Sieve of atkin
+Sieve of atkin(incorrect)
 
 ## TODO
 
