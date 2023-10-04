@@ -8,6 +8,5 @@ Sieve of Eratosthenes
 Sieve of atkin
 
 ## TODO
-Fermats Test
 
 Primes is in P
